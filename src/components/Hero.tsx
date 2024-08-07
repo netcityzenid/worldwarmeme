@@ -22,7 +22,8 @@ export default function Hero() {
           </li>
         </ul>
       </div>
-      <div></div>
+      <div className="text-center mt-20 font-semibold text-4xl">Tokenomics</div>
+      <div className="text-center mt-20 font-semibold text-4xl">Roadmap</div>
     </div>
   );
 }
