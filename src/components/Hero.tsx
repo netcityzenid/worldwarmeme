@@ -1,11 +1,13 @@
 import React from "react";
+import pepe from "../../public/images/pepe.png";
+import doge from "../../public/images/doge.png";
 
 export default function Hero() {
   return (
     <div className="text-white relative z-50 px-5 mb-40">
       <div className="flex justify-center mt-10">
-        <img src="/images/pepe.png" alt="pepe" className="mt-0 h-40"></img>
-        <img src="/images/doge.png" alt="pepe" className="mt-0 h-40"></img>
+        <img src={pepe} alt="pepe" className="mt-0 h-40"></img>
+        <img src={doge} alt="doge" className="mt-0 h-40"></img>
       </div>
       <div className="text-white text-center text-4xl font-semibold uppercase">World War Meme</div>
       <div className="text-center mt-5 text text-white/70">World War Meme is an innovative and entertaining memecoin project that blends the world of cryptocurrency with the captivating culture of internet memes.</div>
