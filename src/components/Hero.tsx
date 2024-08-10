@@ -44,7 +44,7 @@ export default function Hero() {
       <div className="text-2xl font-medium mt-20 text-center ">Why World War Meme?</div>
       <div className="text-left mt-4  text-white/50">
         <ul className=" list-none">
-          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-white/5 to-[#ffffff17] backdrop-blur-sm border border-white/10">
+          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-[#ffffff02] to-[#ffffff00] backdrop-blur-md border border-white/10">
             <div>
               <svg className="h-10 w-auto mb-2 " viewBox="2 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -62,7 +62,7 @@ export default function Hero() {
             </div>
             <span className="text-white ">Meme Domination:</span> World War Meme is all about conquering the meme world. Collect, share, and trade the dankest memes as you rise to become the ultimate meme lord.
           </li>
-          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-white/5 to-[#ffffff17] backdrop-blur-sm border border-white/10">
+          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-[#ffffff02] to-[#ffffff07] backdrop-blur-md border border border-white/10">
             <div>
               <svg className="h-10 w-auto mb-2 p-0.5" viewBox="1 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -87,7 +87,7 @@ export default function Hero() {
             </div>
             <span className="text-white">Hilarious Community:</span> Join a hilarious and vibrant community of meme enthusiasts. Share your favorite memes, participate in meme battles, and laugh your way to meme stardom.
           </li>
-          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-white/5 to-[#ffffff17] backdrop-blur-sm border border-white/10">
+          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-[#ffffff02] to-[#ffffff07] backdrop-blur-md border border border-white/10">
             <div>
               <svg className="h-10 w-auto mb-2" viewBox="1 1 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -110,7 +110,7 @@ export default function Hero() {
             </div>
             <span className="text-white">Epic Rewards:</span> We reward you for doing what you love – creating and sharing memes! Earn World War Meme tokens for participating in meme contests, challenges, and spreading the meme gospel.
           </li>
-          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-white/5 to-[#ffffff17] backdrop-blur-sm border border-white/10">
+          <li className="mb-5 p-4 rounded-xl bg-gradient-to-tr from-[#ffffff02] to-[#ffffff07] backdrop-blur-md border border border-white/10">
             <div>
               <svg className="h-10 w-auto mb-2" viewBox="1 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
